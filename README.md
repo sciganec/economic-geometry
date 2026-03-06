@@ -171,4 +171,6 @@ MIT License
 - Complete metric structure
 - Transformation group specification
 - Full atlas of 64 states
-```
+
+* * *
+
