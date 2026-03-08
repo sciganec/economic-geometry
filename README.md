@@ -77,38 +77,16 @@ economic-geometry/
 │   ├── fractal-hierarchy.md                   # Self-similarity across scales
 │   └── category-theory-foundations.md          # Functorial approaches
 │
-├── implementations/                         # Computational tools
-│   ├── python/
-│   │   ├── README.md
-│   │   ├── omega_space.py
-│   │   ├── metrics.py
-│   │   ├── transformers.py
-│   │   ├── visualization/
-│   │   │   ├── lattice-3d.py
-│   │   │   └── trajectory-plotter.py
-│   │   └── tests/
-│   ├── julia/                                 # Future Julia implementation
-│   └── mathematica/                            # Symbolic computations
-│
-├── publications/                            # Academic output
-│   ├── 2026-foundations-paper/                # Working paper
-│   │   ├── draft.md
-│   │   ├── figures/
-│   │   └── references.bib
-│   ├── conference-talks/                       # Presentations
-│   └── validation-studies/                      # Empirical research design
-│
-├── community/                                # Collaboration
-│   ├── contributing.md                         # How to contribute
-│   ├── code-of-conduct.md
-│   └── working-groups/
-│       ├── theoretical-foundations/
-│       ├── empirical-validation/
-│       └── tool-development/
-│
-└── archive/                                  # Version history
-    └── v1.0/
-        └── release-notes.md
+└── implementations/                         # Computational tools
+    ├── python/
+    └──  README.md
+        ├── omega_space.py
+        ├── metrics.py
+        ├── transformers.py
+        └──  visualization/
+            ├── lattice-3d.py
+            └── trajectory-plotter.py
+
 ```
 
 * * *
